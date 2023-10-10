@@ -98,6 +98,7 @@ private fun GardenList(
     ReportDrawnWhen { gridState.layoutInfo.totalItemsCount > 0 }
     LazyVerticalGrid(
         columns = GridCells.Fixed(3),
+//        count dirubah menjadi 3 sesuai request
         modifier,
         state = gridState,
         contentPadding = PaddingValues(

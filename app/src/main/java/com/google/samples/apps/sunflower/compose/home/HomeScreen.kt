@@ -176,7 +176,7 @@ private fun HomeTopAppBar(
                 horizontalArrangement = Arrangement.Center,
             ) {
                 Text(
-                    text = "Taman Bunga",
+                    text = "Taman  Bunga",
                     style = MaterialTheme.typography.displaySmall
                 )
             }
