@@ -176,7 +176,7 @@ private fun HomeTopAppBar(
                 horizontalArrangement = Arrangement.Center,
             ) {
                 Text(
-                    text = stringResource(id = R.string.app_name),
+                    text = "Taman Bunga",
                     style = MaterialTheme.typography.displaySmall
                 )
             }
